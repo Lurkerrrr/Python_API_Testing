@@ -1,0 +1,9 @@
+{
+  "test_examples.py::TestExample::test_check_math2": true,
+  "test_first_api.py::TestFirstAPI::test_hello_call": true,
+  "test_first_api.py::TestFirstAPI::test_hello_call[]": true,
+  "test_user_auth.py::TestUserAuth::test_auth_user": true,
+  "test_user_auth.py::TestUserAuth::test_negative_auth_check[no_cookie]": true,
+  "test_user_auth.py::TestUserAuth::test_negative_auth_check[no_token]": true,
+  "tests/test_user_edit.py::TestUserEdit::test_edit_just_created_user": true
+}
